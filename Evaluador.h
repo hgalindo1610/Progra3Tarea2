@@ -13,4 +13,5 @@ bool compararApuntadores(string *a, string *b);
 bool comparar(string *a, string *b);
 char getPrimeraLetra(string* a);
 bool esPalindromo(string* a);
+int getExponente(int* base, int* exponente);
 #endif // EVALUADOR_H

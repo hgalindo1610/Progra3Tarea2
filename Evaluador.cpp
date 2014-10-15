@@ -1,6 +1,5 @@
 #include "Evaluador.h"
 
-string getPrimerElemento(stack<string> mi_cola);
 
 
 void evaluar()
@@ -68,5 +67,15 @@ void evaluar()
         cout<<"Incorrecto"<<endl;
     }
 
-    cout<<endl<<"Nota: "<<nota<<"/6"<<endl;
+    cout<<"Ejercicio getExponente:\t\t\t";
+    if(getExponente(new int(2),new int(2))==4 && getExponente(new int(2),new int(3))==8 && getExponente(new int(3),new int(2))==9)
+    {
+        nota+=1;
+        cout<<"Correcto"<<endl;
+    }else
+    {
+        cout<<"Incorrecto"<<endl;
+    }
+
+    cout<<endl<<"Nota: "<<nota<<"/7"<<endl;
 }

@@ -40,6 +40,12 @@ bool esPalindromo(string* a)
     return false;
 }
 
+//Desreferencia base (dado) y exponente (dado) y devuelve la base elevado al exponente
+int getExponente(int* base, int* exponente)
+{
+    return -1;
+}
+
 int main ()
 {
     //Funcion evaluadora

@@ -1,12 +1,12 @@
 # depslib dependency file v1.0
-1413391992 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.cpp
+1413413750 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.cpp
 	"Evaluador.h"
 
-1413391448 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.h
+1413413729 /home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/Evaluador.h
 	<iostream>
 	<stack>
 
-1413391454 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/main.cpp
+1413413741 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3Ceutec/Tarea2/main.cpp
 	"Evaluador.h"
 	<iostream>
 
